@@ -21,10 +21,5 @@ Designing on-device Apple Silicon quantization runtimes, distributed tailnet dev
 
 | System | Role & Scope | Architecture & Delivery |
 |:---|:---|:---|
-| [`mlx-foundry`](https://github.com/SirSahOl/mlx-foundry) | Author / Lead | Apple Silicon MLX & LiteRT model quantization pipeline (`v0.3.0`, PyPI) |
-| [Virtual Display Grounder](https://sirsahol.github.io/projects/silicon-grounder) | Author / Lead | macOS background automation FastMCP server with sub-5ms warp clicks |
-| [`ai-benchmark-tracker`](https://github.com/sirsahol/ai-benchmark-tracker) | Author / Lead | Vite 6 + Svelte 5 static evaluation engine across 16 benchmarks |
-| [Dual-Settlement Model Gateway](https://sirsahol.github.io/projects/cts-router) | Architect / Lead | Next.js model gateway with Paystack NGN + native BIP-84 BTC/LTC settlement |
-| [Hardened Edge Enclave](https://sirsahol.github.io/projects/platform-core) | Architect / Lead | Zero-host-port VPS control plane enclave with Cloudflare Anycast origin shield |
 
 Detailed architecture specifications, system topography, and verified claims available at [sirsahol.github.io](https://sirsahol.github.io).
